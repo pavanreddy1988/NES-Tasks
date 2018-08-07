@@ -8,3 +8,4 @@ var eachElem = getMain2[x].parentElement.parentElement.childNodes[0].textContent
 cl.push(eachElem);
 }
 alert("No Databases."+"\n"+cl.join("\n"));
+
